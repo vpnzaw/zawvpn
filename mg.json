@@ -1,10 +1,10 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"2.7",
+"Version":"2.8",
 //link for server update
 "Url":"https://github.com/vpnzaw/zawvpn/raw/main/OVPN.zip" ,
 "Changelog":"
-Latest update 24/11/2022
+Latest update 27/11/2022
 ဖိုင္အား Update ေပးခဲ့သည္
 Update အတြက္ လမ္းျပေပး
 ခဲ့တဲ့ အကို T.A.K အား
